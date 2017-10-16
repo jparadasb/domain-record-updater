@@ -1,2 +1,2 @@
-dist/*.js
-webpack.config.js
+ecosystem.config.js
+ecosystem.config.example.js
