@@ -15,5 +15,5 @@ To run this project we need setup the ecosystem.js file with the following ENV v
 After we defined this vars, we can run this project with
 
 ```bash
-yarn install && yarn start
+yarn install && yarn start-dev
 ```
