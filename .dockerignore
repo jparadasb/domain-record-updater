@@ -1,0 +1,4 @@
+.gitignore
+.eslintignore
+.eslintrc.json
+ecosystem.config.example.js
