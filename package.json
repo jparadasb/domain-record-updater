@@ -22,6 +22,7 @@
     "pm2": "^2.7.1"
   },
   "scripts": {
-    "start": "pm2 start ecosystem.config.js --update-env --env=production --watch --no-daemon"
+    "start": "pm2 start ecosystem.config.js --update-env --env=production --watch --no-daemon",
+    "start-dev": "pm2 start ecosystem.config.js --update-env --env=production --watch --no-daemon --watch"
   }
 }
