@@ -1,4 +1,4 @@
-# App to record a log of ip address
+# App to save a log of ip addresses and change a DNS record with digitalocean API
 
 This app is only for **educational propouse**.
 
