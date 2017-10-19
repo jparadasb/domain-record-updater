@@ -1,6 +1,6 @@
 # App to save a log of ip addresses and change a DNS record with digitalocean API
 
-This app is only for **educational propouse**.
+This app is only for **educational purpose**.
 
 
 To run this project we need setup the ecosystem.js file with the following ENV vars: 
