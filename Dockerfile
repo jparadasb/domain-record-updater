@@ -1,9 +1,9 @@
-FROM mhart/alpine-node:8
+FROM node:8
 
 RUN mkdir /app
 WORKDIR /app
 
 COPY . /app
-RUN npm install
+RUN npm install --silent
 
 CMD ["npm", "start"]
